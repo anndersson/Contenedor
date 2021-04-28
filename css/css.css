@@ -4,9 +4,9 @@
 }
 
 .contenedores{
-    width: 500px;
+    width: auto;
     height: auto;
-    background-color: chocolate;
+    background-color: gray;
     margin-top: 50px;
     margin: auto;
     padding: 10px;
@@ -18,11 +18,27 @@
 }
 
 .contenedores div{
-    width: 100px;
-    height: 100px;
-    background-color: brown;
+    width: 150px;
+    height: 150px;
+    background-color: white;
     border: 1px solid pink;
-    margin: 10px;  
+    margin: 20px;  
     font-size: 70px;
     text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    color: gray;
+    margin: top;
+}
+
+section{
+width: 1300px;
+margin:auto;
+}
+
+item{
+width: 150px;
+height: 150px;
 }
